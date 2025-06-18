@@ -2,3 +2,4 @@ spring.application.name: spring-localization-i18n
 spring:
   messages:
     encoding: UTF-8
+    basename: messages
